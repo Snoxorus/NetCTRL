@@ -133,7 +133,7 @@ public class Main extends JPanel {
 				}
 	}
 	
-	
+	//fuckmedaddy
 	private class Key extends KeyAdapter {
 		public void keyPressed(KeyEvent e){
 			if(e.getKeyCode() == KeyEvent.VK_LEFT){
